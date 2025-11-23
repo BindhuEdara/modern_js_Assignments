@@ -1,6 +1,6 @@
-arr1 = [1, 2, 3];
-arr2 = [4, 5];
-arr3 = [...arr1, ...arr2];
+const arr1 = [1, 2, 3];
+const arr2 = [4, 5];
+const arr3 = [...arr1, ...arr2];
 console.log(arr3);
 
 console.log("-------------------");
